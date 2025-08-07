@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F219357&psig=AOvVaw1mAIKn_mC-wGbbEPW3TiTC&ust=1754665046048000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCb__P6-I4DFQAAAAAdAAAAABAV width="150" alt="My Avatar"/>
+</p>
 
 
 # 👋 Hello! I'm Jamela Fernandez
