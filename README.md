@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/A5vWgZT.png" width="150" alt="My Avatar"/>
-</p>
+
 
 
 # 👋 Hello! I'm Jamela Fernandez
