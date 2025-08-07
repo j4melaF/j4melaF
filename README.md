@@ -2,6 +2,7 @@
   <img src=https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif?raw=true width="150" alt="My Avatar"/>
 </p>
 
+> “Every expert was once a beginner.”
 
 # Hello! I'm Jamela Fernandez
 
@@ -48,4 +49,4 @@ To become a reliable **Project Manager** who supports the team, keeps projects o
 
 ---
 
-> “Every expert was once a beginner.”
+
