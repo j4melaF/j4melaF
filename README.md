@@ -2,7 +2,9 @@
   <img src=https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif?raw=true width="150" alt="My Avatar"/>
 </p>
 
-Aspiring Project Manager
+<p align="center">
+  Aspiring Project Manager 
+</p>
 
 > “Every expert was once a beginner.”
 
