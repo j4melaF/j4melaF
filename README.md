@@ -2,12 +2,14 @@
   <img src=https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif?raw=true width="150" alt="My Avatar"/>
 </p>
 
+Aspiring Project Manager
+
 > “Every expert was once a beginner.”
 
 # Hello! I'm Jamela Fernandez
 
  Future Project Manager | 🧠 Currently Learning the Basics  
- From La Verdad | 💼 Passionate about organizing and leading projects
+ From Manila | 💼 Passionate about organizing and leading projects
 
 ---
 
