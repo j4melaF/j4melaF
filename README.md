@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Aspiring Project Manager 
+  <i>🌱 Aspiring Project Manager</i> &nbsp;|&nbsp;
 </p>
 
 > “Every expert was once a beginner.”
