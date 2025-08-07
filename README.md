@@ -3,10 +3,10 @@
 </p>
 
 
-# 👋 Hello! I'm Jamela Fernandez
+# Hello! I'm Jamela Fernandez
 
-🎯 Future Project Manager | 🧠 Currently Learning the Basics  
-📍 From La Verdad | 💼 Passionate about organizing and leading projects
+ Future Project Manager | 🧠 Currently Learning the Basics  
+ From La Verdad | 💼 Passionate about organizing and leading projects
 
 ---
 
@@ -35,7 +35,7 @@ I'm currently learning the fundamentals of **Project Management** and how it pla
 
 ---
 
-## 🎯 My Goal
+##  My Goal
 
 To become a reliable **Project Manager** who supports the team, keeps projects on track, and helps turn ideas into successful results.
 
