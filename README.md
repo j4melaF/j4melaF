@@ -32,10 +32,13 @@ I'm currently learning the fundamentals of **Project Management** and how it pla
 
 ## 🔧 Tools I'm Exploring
 
-- 📌 Trello – for organizing project boards  
-- 🧩 Notion – for notes and team coordination  
-- 📊 Google Workspace – Docs, Sheets, Calendar  
-- 🛠️ GitHub – to understand how developers work  
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
+</p>
 
 ---
 
