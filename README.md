@@ -6,7 +6,6 @@
   <i>🌱 Aspiring Project Manager</i> &nbsp;|&nbsp;
 </p>
 
-> “Every expert was once a beginner.”
 
 # Hello! I'm Jamela Fernandez
 
