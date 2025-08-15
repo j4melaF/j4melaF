@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i>🌱 Aspiring Project Manager</i> &nbsp;|&nbsp; 💻 Tech Enthusiast
+  <i>🌱 Aspiring Project Manager</i> &nbsp;|&nbsp;
 </p>
 
 
