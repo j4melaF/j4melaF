@@ -14,6 +14,12 @@ From Manila | 💼 Passionate about organizing and leading projects
 
 ---
 
+## My Goal
+
+To become a reliable **Project Manager** who supports the team, keeps projects on track, and helps turn ideas into successful results.
+
+---
+
 ## 💡 About Me
 
 Currently exploring the world of **Project Management** — learning how to organize people, timelines, and tasks to bring ideas to life. I’m just starting out, but I’m eager to grow and one day lead amazing teams to success.
@@ -57,12 +63,6 @@ Currently exploring the world of **Project Management** — learning how to orga
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
-
----
-
-## My Goal
-
-To become a reliable **Project Manager** who supports the team, keeps projects on track, and helps turn ideas into successful results.
 
 ---
 
