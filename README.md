@@ -20,6 +20,12 @@ Currently exploring the world of **Project Management** — learning how to orga
 
 ---
 
+## *Experience
+
+- Served as **Project Manager** for our team in the **IT Marketing Challenge** during ICT Week.  
+
+---
+
 ## 📚 What I'm Learning Now
 
 - What a Project Manager does  
@@ -27,12 +33,6 @@ Currently exploring the world of **Project Management** — learning how to orga
 - Basic tools like Trello, Notion, and Google Sheets  
 - How to work better with teams  
 - Time and task management 
-
----
-
-## *Experience
-
-- Served as **Project Manager** for our team in the **IT Marketing Challenge** during ICT Week.  
 
 ---
 
